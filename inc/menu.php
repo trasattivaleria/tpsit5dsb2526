@@ -7,6 +7,7 @@
             <li> <a  href="formget_send.php"  class="text-info">Form GET</a></li>
             <li> <a  href="form_post.php"  class="text-info">Form POST</a></li>
             <li> <a  href="xml_gest.php"  class="text-info">Gestione XML</a></li>
+            <li> <a  href="export_xml_json.php"  class="text-info">Esportazione XML-JSON</a></li>
         </ul>
     </div>
 </div>
